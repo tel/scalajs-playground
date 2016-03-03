@@ -1,0 +1,9 @@
+# IDEs
+.idea
+
+# Scala
+target
+*.class
+
+# OS X
+.DS_Store
